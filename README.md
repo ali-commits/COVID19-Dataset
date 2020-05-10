@@ -1,7 +1,6 @@
 # COVID19-Dataset
 
-the complite hestorical clean COVID19 dataset
-
+the complite hestorical cleaned COVID19 dataset
 
 ## Why New COVID-19 Dataset
 
