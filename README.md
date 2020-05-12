@@ -14,9 +14,6 @@ the complite hestorical cleaned COVID19 dataset
 
 ## How To Use
 
-
-
-
 The data is stored in four different places with four different forms
 
 > 1.  in covid19_dataset.csv file which contains the whole dataset in one file
@@ -32,10 +29,22 @@ To use the data you can clone the repository
 ```bash
 git clone https://github.com/newaaa41/COVID19-Dataset
 ```
-or you can use the url for any csv file 
-example
+
+or you can use the url for any csv file
+
+example:
+
+```python
+#python
+
+import pandas as pd
+df = pd.read_csv('https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/master/covid19_dataset.csv')
 ```
-https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/master/covid19_dataset.csv
+
+```R
+#R
+
+data = read.csv('https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/master/covid19_dataset.csv')
 ```
 
 ## Sources:
