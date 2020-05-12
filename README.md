@@ -14,13 +14,10 @@ the complite hestorical cleaned COVID19 dataset
 
 ## How To Use
 
-first clone this repository to your own device
 
-```bash
-git clone https://github.com/newaaa41/COVID19-Dataset
-```
 
-you will find the data in three different forms
+
+The data is stored in four different places with four different forms
 
 > 1.  in covid19_dataset.csv file which contains the whole dataset in one file
 
@@ -29,6 +26,17 @@ you will find the data in three different forms
 > 3.  in BY_DAY/ directory where the data has been split into different csv files based on the date
 
 > 4.  in BY_MEASUREMENT directory where the data has been split into different csv files based on the measurement (newly reported cases, newly reported deaths, newly reported recoveries, total reported cases, total reported deaths, total reported recoveries, currently active cases)
+
+To use the data you can clone the repository
+
+```bash
+git clone https://github.com/newaaa41/COVID19-Dataset
+```
+or you can use the url for any csv file 
+example
+```
+https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/master/covid19_dataset.csv
+```
 
 ## Sources:
 
