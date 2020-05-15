@@ -1,6 +1,16 @@
 # COVID19-Dataset
 
-the complite hestorical cleaned COVID19 dataset
+
+<p align="center">
+  <img src="resources/confiremed.svg">
+  <img src="resources/death.svg">
+  <img src="resources/recovery.svg">
+</p>
+<p align="center">
+<img width=400 src="resources/10largest.svg">
+  <img width=400 src="resources/time_plot.svg">
+  
+</p>
 
 ## Why New COVID-19 Dataset
 
