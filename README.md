@@ -24,7 +24,7 @@
 
 ## How To Use
 
-The data is stored in four different places with four different forms
+The data is stored in four different forms
 
 > 1.  in covid19_dataset.csv file which contains the whole dataset in one file
 
