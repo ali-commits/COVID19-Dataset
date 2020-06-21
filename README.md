@@ -54,7 +54,7 @@ data = read.csv('https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/mast
 
 ## Sources:
 
-> https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+> https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
 > https://www.worldometers.info/coronavirus/
 
