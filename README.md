@@ -49,7 +49,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/mas
 ```R
 #R
 
-data = read.csv('https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/master/covid19_dataset.csv')
+data <- read.csv('https://raw.githubusercontent.com/newaaa41/COVID19-Dataset/master/covid19_dataset.csv')
 ```
 
 ## Sources:
