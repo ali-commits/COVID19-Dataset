@@ -1,5 +1,5 @@
 country_region,confirmed,deaths,recovered,active,new_confirmed,new_deaths,new_recovered
-Afghanistan,22.0,0.0,1.0,21.0,0.0,0.0,0.0
+Afghanistan,25.0,0.0,1.0,24.0,1.0,0.0,0.0
 Albania,64.0,2.0,0.0,62.0,5.0,0.0,0.0
 Algeria,87.0,9.0,32.0,46.0,13.0,2.0,20.0
 Andorra,53.0,0.0,1.0,52.0,14.0,0.0,0.0
