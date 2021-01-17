@@ -1,7 +1,7 @@
 country_region,confirmed,deaths,recovered,active,new_confirmed,new_deaths,new_recovered
 Australia,0.0,0.0,0.0,0.0,,,
 Brazil,0.0,0.0,0.0,0.0,,,
-China,639.0,18.0,30.0,399.0,92.0,1.0,2.0
+China,1082.0,34.0,58.0,798.0,535.0,17.0,30.0
 Colombia,0.0,0.0,0.0,0.0,,,
 Hong Kong,2.0,0.0,0.0,0.0,2.0,0.0,0.0
 Japan,1.0,0.0,0.0,0.0,-1.0,0.0,0.0
@@ -12,6 +12,6 @@ Philippines,0.0,0.0,0.0,0.0,,,
 Singapore,1.0,0.0,0.0,0.0,,,
 South Korea,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Taiwan,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-Thailand,3.0,0.0,0.0,0.0,1.0,0.0,0.0
+Thailand,4.0,0.0,2.0,2.0,0.0,0.0,0.0
 United States,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 Vietnam,2.0,0.0,0.0,0.0,,,
