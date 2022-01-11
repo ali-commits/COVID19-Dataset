@@ -4,7 +4,6 @@
 <p align="center">
   <img src="resources/confiremed.svg">
   <img src="resources/death.svg">
-  <img src="resources/recovery.svg">
 </p>
 
 ## Why New COVID-19 Dataset
