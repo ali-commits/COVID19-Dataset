@@ -1,4 +1,5 @@
 country_region,confirmed,deaths,recovered,active,new_confirmed,new_deaths,new_recovered
+Antarctica,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Australia,22.0,0.0,11.0,11.0,3.0,0.0,0.0
 Belgium,1.0,0.0,1.0,0.0,0.0,0.0,0.0
 Cambodia,1.0,0.0,1.0,0.0,0.0,0.0,0.0

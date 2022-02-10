@@ -1,6 +1,7 @@
 country_region,confirmed,deaths,recovered,active,new_confirmed,new_deaths,new_recovered
 Afghanistan,5.0,0.0,0.0,5.0,0.0,0.0,0.0
 Algeria,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+Antarctica,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Armenia,1.0,0.0,0.0,1.0,,,
 Australia,27.0,1.0,11.0,15.0,2.0,1.0,0.0
 Austria,14.0,0.0,0.0,14.0,5.0,0.0,0.0
