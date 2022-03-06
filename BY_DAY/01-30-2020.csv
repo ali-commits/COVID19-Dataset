@@ -2,7 +2,7 @@ country_region,confirmed,deaths,recovered,active,new_confirmed,new_deaths,new_re
 Antarctica,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Australia,9.0,0.0,2.0,0.0,4.0,0.0,2.0
 Cambodia,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-Canada,3.0,0.0,0.0,0.0,1.0,0.0,0.0
+Canada,4.0,0.0,0.0,0.0,0.0,0.0,0.0
 China,8124.0,171.0,135.0,5324.0,2054.0,38.0,15.0
 Finland,1.0,0.0,0.0,0.0,0.0,0.0,0.0
 France,5.0,0.0,0.0,0.0,0.0,0.0,0.0
